@@ -52,7 +52,7 @@ configdict = {
     "libraries": [],
     "runtime_library_dirs": [],
     "extra_objects": [],
-    "extra_compile_args": ["-O3", "-pthread", "-ffast-math"],
+    "extra_compile_args": [],
     "extra_link_args": [],
     "export_symbols": [],
     "swig_opts": [],
